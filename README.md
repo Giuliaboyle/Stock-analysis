@@ -1,6 +1,6 @@
 # Stock-analysis Using VBA
 ## Overview of Project
-### The purpose of this analysis was to compare the different green energy stocks for a client’s family investments. Once the VBA code was developed, the code was refactored to determine if the VBA script could be run faster.
+### The purpose of this analysis was to compare the yearly return of various green energy stocks in 2017 and 2018 for a client’s family investments. Once the VBA code was developed, the code was refactored to determine if the VBA script could be run faster in order to analyze more data in the future.
 
 ## Results
 ### The origional code
