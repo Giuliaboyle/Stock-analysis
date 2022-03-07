@@ -3,7 +3,9 @@
 ### The purpose of this analysis was to compare the yearly return of various green energy stocks in 2017 and 2018 for a client’s family investments. Once the VBA code was developed, the code was refactored to determine if the VBA script could be run faster in order to analyze more data in the future.
 
 ## Results
+### 2017
 <img width="261" alt="Screen Shot 2022-03-06 at 7 15 07 PM" src="https://user-images.githubusercontent.com/100374924/156948670-6231cc34-fed1-4b9b-a237-d41108c9e4de.png">
+### 2018
 <img width="263" alt="Screen Shot 2022-03-06 at 7 15 21 PM" src="https://user-images.githubusercontent.com/100374924/156948680-3a73da54-d522-47f6-b28b-cbe20706c8d1.png">
 
 ### Amount of time it took for origional code to run
