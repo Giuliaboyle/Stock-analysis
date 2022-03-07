@@ -20,5 +20,7 @@
 <img width="254" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/100374924/156948343-a87ded6c-5d90-4bcc-9c9b-53b6a9c47ffb.png">
 
 
-##Summary
+## Summary
+
+
 ### As one can see the yearly return for the stocks we analyzed were much higher in 2017 than they were in 2018. It would be even more beneficial to use this code on a larger data set to explore the trends of more stocks. In order to make this code run efficiently with more data the code was refactored. There are both advantages and disadvantages when it comes to refactoring code. Refactoring can be very useful to compile many lines of code into one or a few lines. This makes the code easier to look at, but it can also become more difficult to understand. The original code may be easier to follow for the average person as it is presented stepwise. The refractured code is more visually appealing to experienced coders.  
